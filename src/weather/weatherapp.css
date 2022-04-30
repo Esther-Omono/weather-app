@@ -11,14 +11,14 @@ body {
 }
 
 .app {
-    background-image: url("https://images.unsplash.com/photo-1612208695882-02f2322b7fee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29sZCUyMHdlYXRoZXJ8ZW58MHx8MHx8&w=1000&q=80");
+    background-image: url("./assets/cold-bg1.jpg");
     background-size: cover;
     background-position: bottom;
     transition: 0.4 ease-out;
 }
 
 .app.warm {
-    background-image: url("https://images.unsplash.com/photo-1590655076750-583a1d9fddf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=701&q=80");
+    background-image: url("./assets/warm-bg1.jpg");
 }
 
 main {
